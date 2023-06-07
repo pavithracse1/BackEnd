@@ -1,0 +1,9 @@
+3 ANSWERS:
+
+A. Reverse-i-search in a Linux terminal is a feature that allows you to search through the command history by typing a few characters and pressing the Ctrl+R key combination. It will display the most recent command that matches the entered characters.
+
+B. To list out hidden directories using the Linux command line tool, you can use the command "ls -a" or "ls -al". The "-a" option shows all files and directories, including hidden ones, while the "-l" option provides detailed information about the files and directories.
+
+C. The answer to this question would depend on the individual's experience and familiarity with Linux-based operating systems. It cannot be answered with a one-line response.
+
+D. The answer to this question would vary for each individual. If the person has experience with hosting web applications on servers, they can provide details about the services they have set up, such as Apache, Nginx, FTP, SMTP, etc.
